@@ -1,0 +1,3 @@
+$myVPAUsername = ""
+$myVPAPassword = ""
+
